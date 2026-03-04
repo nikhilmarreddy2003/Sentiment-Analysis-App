@@ -61,16 +61,16 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 ## Screenshots of the Application
 
 ### 1. Main interface (input screen)
-![Main Interface](main interface.png)
+![Main Interface](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/main%20interface.png?raw=true)
 
 ### 2. Positive sentiment result
-![Positive Result](positve.png)
+![Positive Result](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/positve.png?raw=true)
 
 ### 3. Neutral sentiment result
-![Neutral Result](neautral.png)
+![Neutral Result](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/neautral.png?raw=true)
 
 ### 4. Negative sentiment result
-![Negative Result](negative.png)
+![Negative Result](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/negative.png?raw=true)
 
 ## How to Run Locally
 
