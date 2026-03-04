@@ -72,7 +72,6 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 ### 4. Negative sentiment result
 ![Negative Result](negative.png)
 
-
 ## How to Run Locally
 
 1. Clone the repository  
