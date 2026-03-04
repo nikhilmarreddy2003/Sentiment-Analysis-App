@@ -81,17 +81,4 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 
 Press Enter
 
-Make safe space for app
-Type one by one (press Enter after each):Bashpython -m venv myenvThen activate:
-Windows:Bashmyenv\Scripts\activate
-Mac:Bashsource myenv/bin/activate
-You will see (myenv) — good!
-Install what app needs
-Type:Bashpip install -r requirements.txtWait 5–15 min (downloads big files — normal)
-Start the app
-Type:Bashstreamlit run app.py
-Open in browser
-It opens automatically — or go to:
-http://localhost:8501
-
-Now type anything → click Analyze → see result!
+download sentimemt_analyzer_app.py  file and save it in c drive where python files are located and now open command prompt and thpe this "streamlit run sentiment_analyzer_app.py" it opens in local browser.
