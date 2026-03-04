@@ -69,7 +69,7 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 ### 3. Neutral sentiment result
 ![Neutral Result](screenshots/03-neutral.png) 
 
-### 4. Positive sentiment result
+### 4. Negative sentiment result
 ![negative Result](screenshots/negative.png)
 
 ## How to Run Locally
