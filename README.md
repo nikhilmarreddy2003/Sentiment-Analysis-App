@@ -74,11 +74,4 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 
 ## How to Run Locally
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
-   cd sentiment-analysis-app
-
-Press Enter
-
-download sentimemt_analyzer_app.py  file and save it in c drive where python files are located and now open command prompt and thpe this "streamlit run sentiment_analyzer_app.py" it opens in local browser.
+download sentimemt_analyzer_app.py  file and save it in c drive where python files are located and now open command prompt and type this "streamlit run sentiment_analyzer_app.py" it opens in local browser.
