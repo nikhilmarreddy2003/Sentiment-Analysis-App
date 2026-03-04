@@ -61,7 +61,7 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 ## Screenshots of the Application
 
 ### 1. Main interface (input screen)
-![Main Interface](screenshots/main interface.png)
+![Main Interface](screenshots/interface.png)
 
 ### 2. Positive sentiment result
 ![Positive Result](screenshots/positve.png)
